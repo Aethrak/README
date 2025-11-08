@@ -1,9 +1,9 @@
 <h1 align="center">Hello :)! im DevGhost</h1>
 <h3 align="center">I am a Front / Back end developer / Reverse engineering</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ryuzeen&label=Profile%20views&color=0e75b6&style=flat" alt="ryuzeen" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aetrhak&label=Profile%20views&color=0e75b6&style=flat" alt="aethrak" /> </p>
 
-<p align="left"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=ryuzeen" alt="ryuzeen"/></a></p>
+<p align="left"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=ryuzeen" alt="aethrak"/></a></p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/f7/ba/14/f7ba14559f7710daa9d650d152cbd0ea.jpg">
 
 - 👨‍💻 I’m currently working on [...]
